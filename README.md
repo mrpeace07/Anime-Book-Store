@@ -6,10 +6,10 @@ Welcome to the Anime Book Store project! This application is a CRUD platform for
 
 You can view demo images of the application here:
 
-- ![Demo Image 1](DEMO/D1)
-- ![Demo Image 2](DEMO/D2)
-- ![Demo Image 3](DEMO/D3)
-- ![Demo Image 4](DEMO/D4)
+- ![Demo Image 1](DEMO/D1.png)
+- ![Demo Image 2](DEMO/D2.png)
+- ![Demo Image 3](DEMO/D3.png)
+- ![Demo Image 4](DEMO/D4.png)
 
 ## Running the Project
 
